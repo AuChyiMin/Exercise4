@@ -14,7 +14,7 @@ public class Arctic extends Fox {
 	}
 	
 	
-	public double TotalSales() {
+	public double TotalPrice() {
 		return super.getPrice();
 	}
 	
