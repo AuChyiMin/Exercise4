@@ -15,7 +15,7 @@ public class Main {
 		System.out.println("--------Arctic Fox--------");
 		System.out.println(obj);
 		System.out.println("Total Price : RM" + obj.TotalPrice());
-		System.out.printf("Cost Of Food : RM%.2f", obj.CostOfFood());
+		System.out.printf("Cost Of Food For A Day: RM%.2f", obj.CostOfFood());
 
 	}
 
